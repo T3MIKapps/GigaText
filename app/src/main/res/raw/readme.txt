@@ -1,0 +1,1 @@
+Положи сюда сертификат russian_trusted_root_ca.crt
